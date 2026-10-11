@@ -1,0 +1,11 @@
+{
+  "python": "python3",
+  "iconSize": 16,
+  "buttonSize": 26,
+  "pixmapDirs": [
+    "/usr/share/uim/pixmaps",
+    "/usr/local/share/uim/pixmaps"
+  ],
+  "mock": false,
+  "commands": {}
+}

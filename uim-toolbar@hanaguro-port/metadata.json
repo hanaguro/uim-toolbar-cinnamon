@@ -1,0 +1,7 @@
+{
+  "uuid": "uim-toolbar@hanaguro-port",
+  "name": "uim Toolbar",
+  "description": "uim property toolbar, ported from the uim Qt helper toolbar",
+  "version": "0.1.0",
+  "max-instances": 1
+}
